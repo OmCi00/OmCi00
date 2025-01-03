@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kuba and I'm Wąbrzeźno, from Poland</p>
+<p align="left">My name is Kuba and I'm IT student from Poland</p>
 
 ###
 
