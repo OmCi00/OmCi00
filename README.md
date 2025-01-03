@@ -29,4 +29,8 @@
   <img width="12" />
 </div>
 
+My CV
+ENG: file:///C:/Users/user/Desktop/Jakub%20Krzewi%C5%84ski,%20ENG.pdf
+PL: file:///C:/Users/user/Desktop/Jakub%20Krzewi%C5%84ski,%20PL.pdf
+
 ###
